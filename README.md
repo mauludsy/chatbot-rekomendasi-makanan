@@ -314,8 +314,9 @@ Top 5 Food Recommendations
 ---
 
 ## 🖥️ Web Application Interface
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8fed0c4-2dfa-40fd-b9d3-791761756f11" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0dc1a38-9b86-4ed7-94bb-acf790ddc11c" />
+<img width="1600" height="846" alt="chatbot 1" src="https://github.com/user-attachments/assets/f856703f-cc10-4e5c-8637-adc8d7443589" />
+<img width="1600" height="846" alt="chatbot 2" src="https://github.com/user-attachments/assets/6a3046c2-f580-4634-b984-7c4116d28143" />
+
 
 
 
