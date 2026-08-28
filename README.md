@@ -314,6 +314,10 @@ Top 5 Food Recommendations
 ---
 
 ## 🖥️ Web Application Interface
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8fed0c4-2dfa-40fd-b9d3-791761756f11" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0dc1a38-9b86-4ed7-94bb-acf790ddc11c" />
+
+
 
 The chatbot interface is developed using **Streamlit**.
 
